@@ -10,7 +10,7 @@ documentation skills for IT support roles.
 
 ## Browse the knowledge base
 Visit the Wiki tab above or go directly to:
-https://github.com/yourusername/it-helpdesk-knowledge-base/wiki
+https://github.com/Samuel08sudo/it-helpdesk-knowledge-base/wiki
 
 ## Categories covered
 - Account & Access (4 articles)
